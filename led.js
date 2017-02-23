@@ -8,8 +8,6 @@ var config = {
 Firebase.initializeApp(config);
 var ref = Firebase.database().ref();
 // Create a new reference of Firebase db
-//var ref = new firebase("https://getvalues-838ac.firebaseio.com/getvalues");
-  // fictional URL, replace it with your own from Firebase
 var board = new five.Board();
 board.on("ready", function() {
   // Create an Led on pin 13
