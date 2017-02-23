@@ -16,7 +16,8 @@ For linux:-
  After that install firebase and johnny-five library using npm  by following commands:-
  
              1)npm install firebase
-                                                                                                                                                2)npm install johnny-five
+            
+             2)npm install johnny-five
 
 You ned to speciy your own firebase account if you want the project to run in both the app as well as .js code. for the app you need to provide your google-jsom.services file in the app and place it in the app folder.
 
