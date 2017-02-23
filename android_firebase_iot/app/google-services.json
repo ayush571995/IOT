@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "127290387676",
+    "firebase_url": "https://getvalues-838ac.firebaseio.com",
+    "project_id": "getvalues-838ac",
+    "storage_bucket": "getvalues-838ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127290387676:android:fff15885323989e5",
+        "android_client_info": {
+          "package_name": "com.example.ayush.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127290387676-6k0p2toag7usk2tub6vf7i97graat33q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMEpFCHRihefdKmnQl6L9C84-k5Hla1HU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
